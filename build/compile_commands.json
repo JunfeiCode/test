@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/hui/Desktop/project_temp/build",
+  "command": "D:\\DesignTool\\CPP\\mingw64\\bin\\g++.exe    -g   -o CMakeFiles\\qq.dir\\main.cpp.obj -c C:\\Users\\hui\\Desktop\\project_temp\\main.cpp",
+  "file": "C:/Users/hui/Desktop/project_temp/main.cpp"
+},
+{
+  "directory": "C:/Users/hui/Desktop/project_temp/build",
+  "command": "D:\\DesignTool\\CPP\\mingw64\\bin\\g++.exe    -g   -o CMakeFiles\\qq.dir\\prindWord.cpp.obj -c C:\\Users\\hui\\Desktop\\project_temp\\prindWord.cpp",
+  "file": "C:/Users/hui/Desktop/project_temp/prindWord.cpp"
+}
+]

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hui/Desktop/project_temp/main.cpp
+iostream
+-
+prindWord.h
+C:/Users/hui/Desktop/project_temp/prindWord.h
+
+C:/Users/hui/Desktop/project_temp/prindWord.h
+iostream
+-
+

@@ -1,0 +1,3 @@
+D:\DesignTool\CPP\cmake-3.17.0-rc3-win64-x64\bin\cmake.exe -E rm -f CMakeFiles\qq.dir/objects.a
+D:\DesignTool\CPP\mingw64\bin\ar.exe cr CMakeFiles\qq.dir/objects.a @CMakeFiles\qq.dir\objects1.rsp
+D:\DesignTool\CPP\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\qq.dir/objects.a -Wl,--no-whole-archive  -o qq.exe -Wl,--out-implib,libqq.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\qq.dir\linklibs.rsp
